@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone Book</string>
+
+    <string-array name="mail_array">
+        <item>gmail</item>
+        <item>yahoo</item>
+        <item>hotmail</item>
+        <item>outlook</item>
+        <item>skype</item>
+    </string-array>
+
+    <string-array name="network_array">
+        <item>com</item>
+        <item>net</item>
+        <item>mov</item>
+        <item>edu</item>
+    </string-array>
+
+</resources>

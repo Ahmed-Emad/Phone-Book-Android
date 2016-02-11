@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ahmadbarakat.phonebook.Main" >
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:onClick="About"
+        />
+
+    <item
+        android:id="@+id/add"
+        android:title="Add Contact"
+        android:onClick="Add"
+        android:showAsAction="always"
+        />
+
+</menu>

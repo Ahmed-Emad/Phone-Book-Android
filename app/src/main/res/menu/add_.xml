@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ahmadbarakat.phonebook.Add_Activity" >
+
+    <item
+        android:id="@+id/Done"
+        android:title=" Done  "
+        android:onClick="Done"
+        android:showAsAction="always"
+        />
+
+</menu>

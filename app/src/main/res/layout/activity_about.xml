@@ -1,0 +1,31 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".List">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:layout_marginBottom="20dp"
+        android:text="By: Ahmed Emad Barakat"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+        android:id="@+id/TV_name"
+        android:inputType="textCapCharacters" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:text="7MADAH.1994@Gmail.com"
+        android:layout_gravity="center"
+        android:textSize="22dp"
+        android:id="@+id/TV_email"
+        android:inputType="textEmailAddress" />
+
+</LinearLayout>

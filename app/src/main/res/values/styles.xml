@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="MyTheme" parent="android:Theme.Holo.Light">
+    </style>
+
+
+    <style name="MyPanelTheme" parent="android:Theme.Holo.Light.Panel">
+    </style>
+
+</resources>
